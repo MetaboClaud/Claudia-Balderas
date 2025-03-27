@@ -13,7 +13,7 @@
 
 ***🚀 Actualmente:***
 - 🏛️ Investigadora en el programa **Momentum-CSIC** (contrato Doctor FC2)
-- 🤖 Desarrollo de modelos de **Machine Learning** e **IA** para la detección de fraudes en aceites esenciales
+- 🤖 Desarrollo de modelos de **Machine Learning** e **IA** en el análisis de aceites esenciales
 
 ***💡 Intereses:***
 - 🌱 Ciencia aplicada a problemas reales
