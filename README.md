@@ -20,8 +20,6 @@
 - 🔄 Retos interdisciplinarios
 - 🤝 Trabajo colaborativo con impacto social
 
-📌 Más sobre mí en mi [portafolio académico](https://claudiabalderas.github.io)
-
 ## 🚀 Proyectos Destacados
 
 - 🌐 **[Mi portafolio académico](https://claudiabalderas.github.io)**: Sitio web con mi CV, publicaciones y proyectos.
@@ -38,3 +36,5 @@
 📍 Actualmente en: **Madrid, España**
 - Email: claudia.balderas@iqog.csic.com
 - LinkedIn: [linkedin.com/in/claudiabalderas](https://www.linkedin.com/in/phdclaudiabalderas/)
+- 📌 Más sobre mí en mi [portfolio académico](https://claudiabalderas.github.io)
+
