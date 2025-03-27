@@ -6,16 +6,16 @@
 - 🧪 Análisis metabolómicos aplicados a estudios de nutrición
 - 📈 Procesamiento e interpretación de datos complejos de espectrometría de masas
 
-**🎓 Formación y experiencia:**
+**+🎓 Formación y experiencia:***
 - 🧠 Más de 10 años de experiencia en investigación científica
 - 🧬 Máster en bioinformática especializada en tecnologías ómicas (genómica, transcriptómica, proteómica)
 - 🌍 Experiencia internacional en equipos multidisciplinares
 
-**🚀 Actualmente:**
+***🚀 Actualmente:***
 - 🏛️ Investigadora en el programa **Momentum-CSIC** (contrato Doctor FC2)
 - 🤖 Desarrollo de modelos de **Machine Learning** e **IA** para la detección de fraudes en aceites esenciales
 
-**💡 Intereses:**
+***💡 Intereses:***
 - 🌱 Ciencia aplicada a problemas reales
 - 🔄 Retos interdisciplinarios
 - 🤝 Trabajo colaborativo con impacto social
