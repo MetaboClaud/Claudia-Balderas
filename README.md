@@ -1,6 +1,26 @@
-# ¡Hola, soy Claudia Balderas! 👩‍🔬💻
+# ¡Hola, soy Claudia Balderas! 👩🏻‍🔬💻
 
-Soy científica especializada en autenticación de aceites esenciales, con enfoque en el uso de inteligencia artificial y herramientas digitales para detectar fraudes. Actualmente estoy desarrollando mi portafolio académico con GitHub Pages.
+Investigadora en Metabolómica & Ciencia de Datos 🧪
+
+**Especialidad:**
+- Análisis metabolómicos aplicados a estudios de nutrición
+- Procesamiento e interpretación de datos complejos de espectrometría de masas
+
+**Formación y experiencia:**
+- Más de 10 años de experiencia en investigación científica
+- Máster en bioinformática especializada en tecnologías ómicas (genómica, transcriptómica, proteómica)
+- Experiencia internacional en equipos multidisciplinares
+
+**Actualmente:**
+- Investigadora en el programa **Momentum-CSIC** (contrato Doctor FC2)
+- Desarrollo de modelos de **Machine Learning** e **IA** para la detección de fraudes en aceites esenciales
+
+**Intereses:**
+- Ciencia aplicada a problemas reales
+- Retos interdisciplinarios
+- Trabajo colaborativo con impacto social
+
+📌 Más sobre mí en mi [portafolio académico](https://claudiabalderas.github.io)
 
 ## 🚀 Proyectos Destacados
 
