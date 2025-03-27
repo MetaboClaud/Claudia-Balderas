@@ -2,7 +2,7 @@
 
 ## Investigadora en Metabolómica y Ciencia de Datos 👩🏻‍🔬⚛️💻
 
-**🔬 Especialidad:**
+***🔬 Especialidad:***
 - 🧪 Análisis metabolómicos aplicados a estudios de nutrición
 - 📈 Procesamiento e interpretación de datos complejos de espectrometría de masas
 
