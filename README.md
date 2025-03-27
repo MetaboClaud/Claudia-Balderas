@@ -6,7 +6,7 @@
 - 🧪 Análisis metabolómicos aplicados a estudios de nutrición
 - 📈 Procesamiento e interpretación de datos complejos de espectrometría de masas
 
-**+🎓 Formación y experiencia:***
+***🎓 Formación y experiencia:***
 - 🧠 Más de 10 años de experiencia en investigación científica
 - 🧬 Máster en bioinformática especializada en tecnologías ómicas (genómica, transcriptómica, proteómica)
 - 🌍 Experiencia internacional en equipos multidisciplinares
