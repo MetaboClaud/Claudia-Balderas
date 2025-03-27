@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Claudia Balderas
 
-## Investigadora en Metabolómica y Ciencia de Datos 👩🏻‍🔬⚛️💻
+### Investigadora en Metabolómica y Ciencia de Datos 👩🏻‍🔬⚛️💻
 
 ***🔬 Especialidad:***
 - 🧪 Análisis metabolómicos aplicados a estudios de nutrición
