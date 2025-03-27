@@ -1,26 +1,28 @@
-# ¡Hola, soy Claudia Balderas! 👩🏻‍🔬💻
+### 👋 ¡Hola! Soy Claudia Balderas
 
-Investigadora en Metabolómica & Ciencia de Datos 🧪
+Investigadora en Metabolómica y Ciencia de Datos 👩🏻‍🔬⚛️💻
 
-**Especialidad:**
-- Análisis metabolómicos aplicados a estudios de nutrición
-- Procesamiento e interpretación de datos complejos de espectrometría de masas
+**🔬 Especialidad:**
+- 🧪 Análisis metabolómicos aplicados a estudios de nutrición
+- 📈 Procesamiento e interpretación de datos complejos de espectrometría de masas
 
-**Formación y experiencia:**
-- Más de 10 años de experiencia en investigación científica
-- Máster en bioinformática especializada en tecnologías ómicas (genómica, transcriptómica, proteómica)
-- Experiencia internacional en equipos multidisciplinares
+**🎓 Formación y experiencia:**
+- 🧠 Más de 10 años de experiencia en investigación científica
+- 🧬 Máster en bioinformática especializada en tecnologías ómicas (genómica, transcriptómica, proteómica)
+- 🌍 Experiencia internacional en equipos multidisciplinares
 
-**Actualmente:**
-- Investigadora en el programa **Momentum-CSIC** (contrato Doctor FC2)
-- Desarrollo de modelos de **Machine Learning** e **IA** para la detección de fraudes en aceites esenciales
+**🚀 Actualmente:**
+- 🏛️ Investigadora en el programa **Momentum-CSIC** (contrato Doctor FC2)
+- 🤖 Desarrollo de modelos de **Machine Learning** e **IA** para la detección de fraudes en aceites esenciales
 
-**Intereses:**
-- Ciencia aplicada a problemas reales
-- Retos interdisciplinarios
-- Trabajo colaborativo con impacto social
+**💡 Intereses:**
+- 🌱 Ciencia aplicada a problemas reales
+- 🔄 Retos interdisciplinarios
+- 🤝 Trabajo colaborativo con impacto social
 
 📌 Más sobre mí en mi [portafolio académico](https://claudiabalderas.github.io)
+
+
 
 ## 🚀 Proyectos Destacados
 
