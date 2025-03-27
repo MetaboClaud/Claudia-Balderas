@@ -36,7 +36,7 @@
 - Visual Studio Code
 
 ## 📫 Cómo contactarme
-
+📍 Actualmente en: **Madrid, España**
 - Email: claudia.balderas@iqog.csic.com
 - LinkedIn: [linkedin.com/in/claudiabalderas](https://www.linkedin.com/in/phdclaudiabalderas/)
 ---
