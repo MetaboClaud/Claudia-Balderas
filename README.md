@@ -4,7 +4,6 @@ Soy científica especializada en autenticación de aceites esenciales, con enfoq
 
 ## 🚀 Proyectos Destacados
 
-- 🎯 **[AI para aceites esenciales](https://github.com/claudiabalderas/aceites-esenciales-ai)**: Detección de adulteraciones en aceites usando Machine Learning y GC-MS.
 - 🌐 **[Mi portafolio académico](https://claudiabalderas.github.io)**: Sitio web con mi CV, publicaciones y proyectos.
 - 📊 **Análisis de datos con Python y R**: Proyectos usando `scikit-learn`, `caret`, y más.
 
